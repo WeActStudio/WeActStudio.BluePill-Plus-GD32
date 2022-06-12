@@ -1,5 +1,5 @@
 * [Enlish version](./README.md)
-# WeActStudio.BluePill-Plus-APM32
+# WeActStudio.BluePill-Plus-GD32
 GD32F103CBT6
 > 108Mhz Max,20KB RAM,128KB ROM
 
@@ -13,9 +13,10 @@ GD32 官方网站 www.gd32mcu.com
 + `128 Kbytes` of Flash memory, `20 Kbytes` of SRAM
 * `8 MHz` 系统晶振
 * `32.768 KHz` RTC晶振
+* 用户按键 KEY `PA0`
 * 蓝色 LED `PB2` Active high
 * 红色电源 LED `PWR`
-* 2x20 侧面引脚 && 1x4 SW 引脚
+* 2x20 侧面引脚 && 1x4 SWD 引脚
 * 尺寸: `52.81 mm x 20.78 mm`
 
 * SPI Flash U3 IO位置

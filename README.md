@@ -13,9 +13,10 @@ GD32 Official website www.gd32mcu.com
 + `128 Kbytes` of Flash memory, `20 Kbytes` of SRAM
 * `8 MHz` system crystal
 * `32.768 KHz` RTC crystal
+* User KEY `PA0`
 * Blue LED `PB2` Active high
 * Red power LED `PWR`
-* 2x20 side pins && 1x4 SW pins
+* 2x20 side pins && 1x4 SWD pins
 * Size: `52.81 mm x 20.78 mm`
 * SPI Flash U3 Un place
   * PA4  CS
