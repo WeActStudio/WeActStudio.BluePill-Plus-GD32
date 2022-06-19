@@ -9,7 +9,7 @@
 ## V1.0
 1. 1 x KEY (`PA0`)
 2. 1 x `USB C`
-3. Boot 键, 很容易进入ISP模式
+3. 1 x Boot0 Key
 
 ## 如何进入ISP模式
 

@@ -7,7 +7,7 @@ GD32 官方网站 www.gd32mcu.com
 
 ![display](Images/BluePillPlus.jpg)
 
-## Features
+## 特性
 * GD32F103CBT6 ARM Cortex-M3
 + `108 MHz` 最大运行频率
 + `128 Kbytes` of Flash memory, `20 Kbytes` of SRAM

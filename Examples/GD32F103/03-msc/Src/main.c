@@ -65,6 +65,7 @@ int main(void)
 
     printf("\r\nWeAct Studio Core Board\r\n");
     printf("weactstudio.taobao.com\r\n");
+    printf("weactstudio.aliexpress.com\r\n");
     printf("wwww.weact-tc.cn\r\n\r\n");
     printf("SystemClk:%d\r\n", SystemCoreClock);
     printf("CK_AHB is %d\r\n", rcu_clock_freq_get(CK_AHB));

@@ -10,20 +10,20 @@
 *.htm
 *.lnp
 
-#GD32/
-#GD32F303CCT6/
 UnProvide/
 unsupport*/
 Listings/
 DebugConfig/
 *.uvguix.*
-*.uvoptx
 *.scvd
 *.lst
 *.dep
 *.iex
 *.axf
 *.
+
+.vscode/
+
 # Linker output
 *.ilk
 *.map
@@ -46,12 +46,10 @@ DebugConfig/
 *.dylib
 
 # Executables
-*.exe
 *.out
 *.app
 *.i*86
 *.x86_64
-*.hex
 
 # Debug files
 *.dSYM/
