@@ -43,8 +43,8 @@ GD32 官方网站 www.gd32mcu.com
 - WeAct Studio 官方链接
 - taobao: weactstudio.taobao.com
 - aliexpress: weactstudio.aliexpress.com
-- github: github.com/WeActTC
-- gitee: gitee.com/WeAct-TC
-- blog: www.weact-tc.cn
+- github: github.com/WeActStudio
+- gitee: gitee.com/WeActStudio
+- blog: blog.weactstudio.com
 ---------------------------------------*/
 ```
